@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "272934510304741f",
+    "type": "split",
+    "children": [
+      {
+        "id": "abc7787cb36ea063",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a6524ff8bf2d551",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8ed728014711c14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50d9bc07c785f0ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a5c19b6b942ca37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 182.5
+  },
+  "right": {
+    "id": "02307d57f65b4fda",
+    "type": "split",
+    "children": [
+      {
+        "id": "b30a9492829b4711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2cbdcd9fe0c78ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "abc7787cb36ea063",
+  "lastOpenFiles": [
+    "Notes/Insurance/Insurance basics.md"
+  ]
+}

@@ -121,24 +121,8 @@ The insurance operation is based on the theory that just a few people out of a g
 - It enables the company to re-insure itself with another insurance company.
 
 ---
-
-
-
-			
-			 
-		 
-		
-		
-   
-
-
-
-
-
-
-
-
-
+## Principles of Insurance
 
 ### Summary
+
 Highlight ==what’s important!==
