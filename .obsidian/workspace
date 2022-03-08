@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "abc7787cb36ea063",
+        "id": "b05f7acb136bd2fa",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Insurance/Insurance basics.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182.5
+    "width": 223.5
   },
   "right": {
     "id": "02307d57f65b4fda",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Insurance/Insurance basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,8 +87,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "abc7787cb36ea063",
+  "active": "b05f7acb136bd2fa",
   "lastOpenFiles": [
-    "Notes/Insurance/Insurance basics.md"
+    "Notes/Insurance/Insurance basics.md",
+    "Notes/Insurance/Principles of insurance.md",
+    "Templates/Insurance Note Template.md",
+    "Notes/Web Development/JS String Methods.md",
+    "markdown-cheat-sheet.md",
+    "Notes/Web Development/J.md",
+    "README.md"
   ]
 }

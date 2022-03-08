@@ -6,9 +6,9 @@ Class: Part One
 ---
 
 # Introduction
-**Insurance** - Its a contract b2n an individual or a business and an insurance company to insure against occurence of a risk.
+**Insurance** - Its a contract between an individual or a business and an insurance company to insure against occurrence of a risk.
 
-**Risk** - also referred to as contigencies, hazards or perils.
+**Risk** - also referred to as contingencies, hazards or perils.
 ==Examples==
 - Fire
 - Accidents
@@ -121,8 +121,6 @@ The insurance operation is based on the theory that just a few people out of a g
 - It enables the company to re-insure itself with another insurance company.
 
 ---
-## Principles of Insurance
 
 ### Summary
-
-Highlight ==what’s important!==
+- Checkout on [[Principles of insurance]]

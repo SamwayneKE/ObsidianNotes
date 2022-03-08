@@ -2,7 +2,8 @@
   "foldIndent": true,
   "foldHeading": true,
   "showFrontmatter": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "spellcheck": true,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "promptDelete": false
 }
