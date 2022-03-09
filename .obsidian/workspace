@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Insurance/Insurance basics.md",
-            "mode": "preview",
+            "file": "Notes/WebDevelopment/JS String Methods.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Insurance/Insurance basics.md",
+                "file": "Notes/WebDevelopment/JS String Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,12 @@
   },
   "active": "b05f7acb136bd2fa",
   "lastOpenFiles": [
+    "Notes/WebDevelopment/JS String Methods.md",
+    "Notes/Web Development/JS String Methods.md",
+    "Untitled.md",
     "Notes/Insurance/Insurance basics.md",
     "Notes/Insurance/Principles of insurance.md",
     "Templates/Insurance Note Template.md",
-    "Notes/Web Development/JS String Methods.md",
     "markdown-cheat-sheet.md",
     "Notes/Web Development/J.md",
     "README.md"
