@@ -63,6 +63,7 @@ let part = str.substr(-4);
 console.log(part)
 ```
 
+---
 ## Replacing string content
 The `replace()` method replaces a specified value with another value in a string.
 
@@ -106,7 +107,7 @@ let newGreetings = greetings.replace(/SAMUEL/i, "Grace"); // This works due to i
 console.log(newGreetings);
 ```
 
-
+----
 ## Converting to Upper and Lower Case 
 
 1. **toUpperCase():** Converts a string to uppercase.
@@ -128,6 +129,7 @@ console.log(newGreetings);
 
 ```
 
+---
 ## JavaScript String concat()
 
 The `concat()` method joins two or more strings.
@@ -184,6 +186,8 @@ ECMAScript 2017 added two String methods:
     
     ```
 
+---
+
 ## Extracting String Characters
 
 There are 3 methods for extracting string characters:
@@ -208,5 +212,66 @@ There are 3 methods for extracting string characters:
 		
 	```
 
+---
 ## Property Access
 
+ECMAScript 5 (2009) allows property access [ ] on strings:
+
+```
+let text = "HELLO WORLD";  
+let char = text[0];
+
+console.log(char);
+
+```
+
+## Note
+Property access might be a little **unpredictable:**
+
+-  It makes strings look like arrays (but they are not)
+- If no character is found, [ ] returns undefined, while  charAt() returns an  string.
+-   It is read only. str[0] = "A" gives no error (but does not work!)
+
+```
+let text = "HELLO WORLD";  
+text[0] = "A"; // Gives no error, but does not work
+
+``` 
+
+---
+
+## Converting a String to an Array
+If you want to work with a string as an array, you can convert it to an array.
+
+**String split() :** A string can be converted to an array with the `split()` method:
+
+```
+let text = "a,b,c,d,e,f";
+
+console.log(text.split(",")); // Split on commas
+console.log(text.split(" ")); // Split on spaces
+console.log(text.split("|")); // Split on pipe
+```
+
+- If the separator is omitted, the returned array will contain the whole string in index [0].
+
+- If the separator is "", the returned array will be an array of single character.
+
+```
+let text = "Hello";
+
+const myArr = text.split("");
+text = "";
+
+for (let i = 0; i < myArr.length; i++) {
+	text += myArr[i] + "<br>"
+}
+
+console.log(text);
+
+```
+
+---
+
+### Summary
+- See more ==here==.
