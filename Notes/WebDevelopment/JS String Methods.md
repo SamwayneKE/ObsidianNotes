@@ -274,4 +274,4 @@ console.log(text);
 ---
 
 ### Summary
-- See more ==here==.
+- Check more here [[JS String Reference]].
