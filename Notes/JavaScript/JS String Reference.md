@@ -69,4 +69,5 @@ Class: JavaScript Basics
 
 ---
 ### Summary
-- See Insurance basics [[JS String Methods]]
+- See more here [[JS String Methods]]
+- Read this MDN tutorial summary here [[strings]]

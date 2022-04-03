@@ -275,3 +275,4 @@ console.log(text);
 
 ### Summary
 - Check more here [[JS String Reference]].
+- Read this MDN tutorial summary here [[strings]]
