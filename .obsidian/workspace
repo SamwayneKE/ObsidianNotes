@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b05f7acb136bd2fa",
+        "id": "1ec333a5ed6be06d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/WebDevelopment/JS String Methods.md",
+            "file": "Notes/JavaScript/conditionals.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/WebDevelopment/JS String Methods.md",
+                "file": "Notes/JavaScript/conditionals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,16 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b05f7acb136bd2fa",
+  "active": "1ec333a5ed6be06d",
   "lastOpenFiles": [
+    "Notes/JavaScript/conditionals.md",
+    "Attachments/Lecture Note Template.md",
+    "Notes/WebDevelopment/if_else-AND-else_if.md",
+    "Notes/WebDevelopment/conditionals.md",
+    "Daily Notes/2022-03-04.md",
     "Notes/WebDevelopment/JS String Methods.md",
-    "Notes/Web Development/JS String Methods.md",
-    "Untitled.md",
-    "Notes/Insurance/Insurance basics.md",
-    "Notes/Insurance/Principles of insurance.md",
-    "Templates/Insurance Note Template.md",
-    "markdown-cheat-sheet.md",
-    "Notes/Web Development/J.md",
-    "README.md"
+    "Notes/WebDevelopment/strings.md",
+    "Untitled 1.md",
+    "Notes/WebDevelopment/JS String Reference.md",
+    "Templates/Insurance Note Template.md"
   ]
 }
